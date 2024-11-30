@@ -66,6 +66,7 @@ Installation Steps
 
 
 Screenshots (are in the repo)
+https://docs.google.com/document/d/1PeZQkaHCslAuMK8lAfrR0rkp1rD6dIeK/edit?usp=sharing&ouid=104683707610166528845&rtpof=true&sd=true
 
 
 
