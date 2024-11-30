@@ -17,8 +17,7 @@ The project consists of two main components:
 Project Features  
 - Instant Movie Recommendations: Select a movie and get suggestions for similar titles.  
 - Movie Posters: Each recommendation is accompanied by the official movie poster.  
-- Intuitive Interface: The app is designed to be simple and user-friendly.  
-- Customization: Expandable to include more advanced features such as user profiles and ratings.  
+- Intuitive Interface: The app is designed to be simple and user-friendly.    
 
 
 
@@ -66,8 +65,7 @@ Installation Steps
 
 
 
-Screenshots  
-_(Coming Soon!)_
+Screenshots (are in the repo)
 
 
 
@@ -80,6 +78,6 @@ Future Enhancements
 
 
 Acknowledgements  
-This project was developed by Varun S**, a passionate Data Science student from Dayananda Sagar College of Engineering. Feel free to reach out for collaborations or suggestions!
+This project was developed by Varun S, a passionate Data Science student from Dayananda Sagar College of Engineering. Feel free to reach out for collaborations or suggestions!
 
 
